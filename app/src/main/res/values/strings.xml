@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MyMoney Notes</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="tambah_transaksi_baru">Tambah Transaksi Baru</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="kategori">Kategori</string>
+    <string name="nominal_rp">Nominal (Rp)</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="ringkasan">Ringkasan</string>
+    <string name="saldo">Saldo</string>
+    <string name="riwayat_transaksi">Riwayat Transaksi</string>
+    <string name="tambah_transaksi">Tambah Transaksi</string>
+    <string name="semua">Semua</string>
+    <string name="rp_0">Rp 0</string>
+    <string name="format_positive_amount">+%s</string>
+    <string name="format_negative_amount">-%s</string>
+    <string name="kategori_expense">kategori expense</string>
+    <string name="switch_theme">Switch Theme</string>
+    <string-array name="income_categories">
+        <item>Gaji</item>
+        <item>Bonus</item>
+        <item>Hadiah</item>
+        <item>Investasi</item>
+        <item>Penjualan</item>
+        <item>Lainnya</item>
+    </string-array>
+
+    <string-array name="expense_categories">
+        <item>Makanan</item>
+        <item>Transportasi</item>
+        <item>Belanja</item>
+        <item>Hiburan</item>
+        <item>Kesehatan</item>
+        <item>Pendidikan</item>
+        <item>Tagihan</item>
+        <item>Lainnya</item>
+    </string-array>
+</resources>
